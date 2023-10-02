@@ -1,6 +1,6 @@
 ## 🔹 Introduction to Artificial Intelligence and Machine Learning Fundamentals 🔹
 
-<img src ="https://raw.githubusercontent.com/mankarsnehal/100-Days-of-Code-Data-Science/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals/ML.webp" height = "500">
+<img src ="https://raw.githubusercontent.com/obylo98/100-Days-of-Code-Data-Science/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals/ML.webp" height = "500">
 
 
 ### 🔸 Artificial Intelligence: 
@@ -29,7 +29,7 @@ Artificial Intelligence, or AI, embodies the creation of intelligent systems tha
 
 
 
-🔗 Here's the link to my GitHub repository: https://github.com/mankarsnehal/100-Days-of-Code-Data-Science
+🔗 Here's the link to my GitHub repository: https://github.com/obylo98/100-Days-of-Code-Data-Science
 
 To make your learning even more comprehensive, I've prepared detailed handwritten notes summarizing the essence of AI and Machine Learning. These notes will guide us as we explore these transformative technologies.
 

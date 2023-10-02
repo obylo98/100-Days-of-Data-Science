@@ -12,19 +12,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 
 
-<img src ="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/data_science.jpg" height = "500">
-
----
-
-## Articles Published on LinkedIn
-
-- Project 1: [Bank Management System: Python, OOPS, and MySQL Database](https://www.linkedin.com/pulse/bank-management-system-python-oops-mysql-database-snehal-mankar/?trackingId=0d%2B0uy4aRkWLiRNEgtWfMA%3D%3D)
-
-- 25 days Completion: [Successful Completion of 25 Days in 100 Days of Data Science Code](https://www.linkedin.com/pulse/successful-completion-25-days-100-data-science-code-snehal-mankar/?trackingId=0d%2B0uy4aRkWLiRNEgtWfMA%3D%3D)
-
-- 50 days Completion : [Successful Completion of 50 Days in 100 Days of Data Science Code](https://www.linkedin.com/pulse/successful-completion-50-days-100-data-science-code-snehal-mankar/?trackingId=xZXNT41zZnyAAkH9WxCQSQ%3D%3D)
-
-
+<img src ="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/data_science.jpg" height = "500">
 
 ---
 
@@ -37,9 +25,9 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 | - | - | - | - | - | - | 1 |
 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/1.%20Day%201%20-%20Python%20Basics) | [19 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/2.%20Day%202%20-%20Functions%20and%20Modules) | [20 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/3.%20Day%203%20-%20Built-in%20Data%20Structures) | [21 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/4.%20Day%204%20-%20File%20Handling%20and%20Exception%20Handling) | [22 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/5.%20Day%205%20-%20Python%20Classes%20and%20Objects) |
-| [23 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/6.%20Day%206%20-%20OOPs%20Concepts%20Implementation%20in%20Python) | [24 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/7.%20Day%207%20-%20Advanced%20Topics) | [25 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/8.%20Day%208%20-%20Python%20MySQL) | [26 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/9.%20Day%209%20-%20Day%201%20of%20Project) | [27 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/10.%20Day%2010%20-%20Day%202%20of%20Project) | [28 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/11.%20Day%2011%20-%20Project%20Completion) | [29 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20NumPy%20Basics) |
-| [30 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Numpy%20Math%20Operations) | [31 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions) | - | - | - | - | - |
+| 16 | 17 | [18 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/1.%20Day%201%20-%20Python%20Basics) | [19 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/2.%20Day%202%20-%20Functions%20and%20Modules) | [20 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/3.%20Day%203%20-%20Built-in%20Data%20Structures) | [21 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/4.%20Day%204%20-%20File%20Handling%20and%20Exception%20Handling) | [22 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/5.%20Day%205%20-%20Python%20Classes%20and%20Objects) |
+| [23 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/6.%20Day%206%20-%20OOPs%20Concepts%20Implementation%20in%20Python) | [24 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/7.%20Day%207%20-%20Advanced%20Topics) | [25 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/8.%20Day%208%20-%20Python%20MySQL) | [26 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/9.%20Day%209%20-%20Day%201%20of%20Project) | [27 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/10.%20Day%2010%20-%20Day%202%20of%20Project) | [28 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/11.%20Day%2011%20-%20Project%20Completion) | [29 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20NumPy%20Basics) |
+| [30 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Numpy%20Math%20Operations) | [31 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions) | - | - | - | - | - |
 
 
 
@@ -49,11 +37,11 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
-| - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro) |
-| [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision) | [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/24.%20Day%2024%20-%20NumPy%20Revision) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/25%20-%20Day%2025%20-%20Pandas%20Revision) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals) |
-| [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting) | [16 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression) | [17 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression) | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML) | [19 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/33.%20Day%2033%20-%20Logistic%20Regression) |
-| [20 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/34.%20Day%2034%20-%20Decision%20Tree%20Concept) | [21 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/35.%20Day%2035%20-%20Decision%20Tree%20Implementation) | [22 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/36.%20Day%2036%20-%20Ensemble%20Methods) | [23 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/37.%20Day%2037%20-%20Gradient%20Boosting) | [24 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/38.%20Day%2038%20-%20AdaBoost%20and%20XGBoost) | [25 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/39.%20Day%2039%20-%20Random%20Forests%20Introduction) | [26 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/40.%20Day%2040%20-%20Random%20Forests%20Implementation) |
-| [27 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/41.%20Day%2041%20-%20Decision%20Tree%20and%20Random%20Forest%20Example) | [28 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/42.%20Day%2042%20-%20SVM%20Intro) | [29 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/43.%20Day%2043%20-%20Linear%20and%20Non-Linear%20SVM%20Implementation) | [30 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/44.%20Day%2044%20-%20SVM%20Regression%20Implementation) | [31 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/45.%20Day%2045%20-%20KNN%20Introduction) | - | - |
+| - | - | [1 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction) | [2 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation) | [3 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning) | [4 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg) | [5 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro) |
+| [6 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram) | [7 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro) | [8 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization) | [9 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision) | [10 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/24.%20Day%2024%20-%20NumPy%20Revision) | [11 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/25%20-%20Day%2025%20-%20Pandas%20Revision) | [12 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals) |
+| [13 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow) | [14 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique) | [15 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting) | [16 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression) | [17 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression) | [18 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML) | [19 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/33.%20Day%2033%20-%20Logistic%20Regression) |
+| [20 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/34.%20Day%2034%20-%20Decision%20Tree%20Concept) | [21 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/35.%20Day%2035%20-%20Decision%20Tree%20Implementation) | [22 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/36.%20Day%2036%20-%20Ensemble%20Methods) | [23 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/37.%20Day%2037%20-%20Gradient%20Boosting) | [24 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/38.%20Day%2038%20-%20AdaBoost%20and%20XGBoost) | [25 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/39.%20Day%2039%20-%20Random%20Forests%20Introduction) | [26 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/40.%20Day%2040%20-%20Random%20Forests%20Implementation) |
+| [27 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/41.%20Day%2041%20-%20Decision%20Tree%20and%20Random%20Forest%20Example) | [28 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/42.%20Day%2042%20-%20SVM%20Intro) | [29 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/43.%20Day%2043%20-%20Linear%20and%20Non-Linear%20SVM%20Implementation) | [30 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/44.%20Day%2044%20-%20SVM%20Regression%20Implementation) | [31 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/45.%20Day%2045%20-%20KNN%20Introduction) | - | - |
 
 
 
@@ -62,11 +50,11 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
-| - | - | - | - | - | [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning) |
-| [3 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision) | [4 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R) | [5 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN) | [6 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation) | [7 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation) | [8 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation) | [9 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro) |
-| [10 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA) | [11 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA) | [12 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example) | [13 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation) | [14 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro) | [15 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/60.%20Day%2060%20-%20Feature%20Selection%20-%20Filter%20Methods) | [16 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/61.%20Day%2061%20-%20Feature%20Selection%20-%20Wrapper%20Methods) |
-| [17 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/62.%20Day%2062%20-%20Feature%20Selection%20-%20Embedded%20Methods) | [18 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/63.%20Day%2063%20-%20EDA%20on%20IPL%20Dataset) | [19 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/64.%20Day%2064%20-%20Used%20Car%20Price%20Prediction%20using%20SVR) | [20 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/65.%20Day%2065%20-%20Movies%20Recommendation) | [21 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/66.%20Day%2066%20-%20SLR%20on%20Insurance%20Dataset) | [22 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/67.%20Day%2067%20-%20Linear%20Regression%20Salary%20Dataset) | [23 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/68.%20Day%2068%20-%20EDA%20on%20Gym%20Exercise%20Dataset) |
-| [24 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/69.%20Day%2069%20-%20EDA%20on%20Life%20Expectations%20Dataset) | [25 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/70.%20Day%2070%20-%20EDA%20on%20Student%20Dropout) | [26 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/71.%20Day%2071%20-%20Intro%20to%20Clustering) | [27 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/72.%20Day%2072%20-%20Clustering%20Algorithms) | [28 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/73.%20Day%2073%20-%20K-means%20Implementation) | [29 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/74.%20Day%2074%20-%20K-Means%20Credit%20Card%20Clustering) | [30 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/75.%20Day%2075%20-%20Visualize%20Clusters%20Exercise) |
+| - | - | - | - | - | [1 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation) | [2 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning) |
+| [3 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision) | [4 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R) | [5 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN) | [6 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation) | [7 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation) | [8 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation) | [9 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro) |
+| [10 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA) | [11 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA) | [12 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example) | [13 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation) | [14 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro) | [15 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/60.%20Day%2060%20-%20Feature%20Selection%20-%20Filter%20Methods) | [16 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/61.%20Day%2061%20-%20Feature%20Selection%20-%20Wrapper%20Methods) |
+| [17 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/62.%20Day%2062%20-%20Feature%20Selection%20-%20Embedded%20Methods) | [18 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/63.%20Day%2063%20-%20EDA%20on%20IPL%20Dataset) | [19 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/64.%20Day%2064%20-%20Used%20Car%20Price%20Prediction%20using%20SVR) | [20 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/65.%20Day%2065%20-%20Movies%20Recommendation) | [21 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/66.%20Day%2066%20-%20SLR%20on%20Insurance%20Dataset) | [22 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/67.%20Day%2067%20-%20Linear%20Regression%20Salary%20Dataset) | [23 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/68.%20Day%2068%20-%20EDA%20on%20Gym%20Exercise%20Dataset) |
+| [24 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/69.%20Day%2069%20-%20EDA%20on%20Life%20Expectations%20Dataset) | [25 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/70.%20Day%2070%20-%20EDA%20on%20Student%20Dropout) | [26 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/71.%20Day%2071%20-%20Intro%20to%20Clustering) | [27 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/72.%20Day%2072%20-%20Clustering%20Algorithms) | [28 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/73.%20Day%2073%20-%20K-means%20Implementation) | [29 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/74.%20Day%2074%20-%20K-Means%20Credit%20Card%20Clustering) | [30 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/75.%20Day%2075%20-%20Visualize%20Clusters%20Exercise) |
 
 
 
@@ -75,7 +63,7 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 | Sun | Mon | Tues | Wed | Thurs | Fri | Sat |
 | - | - | - | - | - | - | - |
-| [1 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/76.%20Day%2076%20-%20Hierarchical%20Clustering) | [2 ✅](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/77.%20Day%2077%20-%20Hierarchical%20Clustering) | 3 | 4 | 5 | 6 | 7 |
+| [1 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/76.%20Day%2076%20-%20Hierarchical%20Clustering) | [2 ✅](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/77.%20Day%2077%20-%20Hierarchical%20Clustering) | 3 | 4 | 5 | 6 | 7 |
 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
 | 22 | 23 | 24 | 25 | 26 | 27 | 28 |
@@ -97,9 +85,9 @@ Starting a 100 Days Code Challenge for Learning Data Science from Scratch is my 
 
 - Control flow statements like if-else conditions and loops.
 
-Github Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/1.%20Day%201%20-%20Python%20Basics)
+Github Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/1.%20Day%201%20-%20Python%20Basics)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehal100-days-of-code-data-science-activity-7087107462633263104-rura?utm_source=share&utm_medium=member_desktop)
+
 
 ---
 
@@ -109,9 +97,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 - Concept of modules.
 - How to import and use built-in modules as well as create your own.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/2.%20Day%202%20-%20Functions%20and%20Modules)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehal100-days-of-code-data-science-activity-7087466523765673984-EqXg?utm_source=share&utm_medium=member_desktop)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/2.%20Day%202%20-%20Functions%20and%20Modules)
 
 ---
 
@@ -121,9 +107,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 - Python's built-in data structures such as lists, tuples, dictionaries, and sets.
 - Also, learn about indexing, slicing, and manipulating these data structures.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/3.%20Day%203%20-%20Built-in%20Data%20Structures)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/3.%20Day%203%20-%20Built-in%20Data%20Structures)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehal100-days-of-code-data-science-activity-7087815923100712960-tteu?utm_source=share&utm_medium=member_desktop)
+
 
 ---
 
@@ -133,9 +119,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 - Read from and write to files in Python.
 - Learn about exception handling and how to handle errors using try-except blocks.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/4.%20Day%204%20-%20File%20Handling%20and%20Exception%20Handling)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/4.%20Day%204%20-%20File%20Handling%20and%20Exception%20Handling)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehal100-days-of-code-data-science-activity-7088178312593702912-MRfz?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -148,9 +133,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 - Built-in Class Attributes and Functions
 - Instance, Class and Static Variables and Functions.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/5.%20Day%205%20-%20Python%20Classes%20and%20Objects)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/5.%20Day%205%20-%20Python%20Classes%20and%20Objects)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_python-classes-handwritten-notes-activity-7088540737629229056-lm0_?utm_source=share&utm_medium=member_desktop)
+
 
 ---
 
@@ -162,9 +147,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_pytho
 - Inheritance
 - Polymorphism.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/6.%20Day%206%20-%20OOPs%20Concepts%20Implementation%20in%20Python)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/6.%20Day%206%20-%20OOPs%20Concepts%20Implementation%20in%20Python)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_oops-concepts-along-with-implementations-activity-7088903087058296832-38jZ?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -175,9 +159,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_oops-
 - List Comprehensions
 - Regular Expressions (RegEx)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/7.%20Day%207%20-%20Advanced%20Topics)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/7.%20Day%207%20-%20Advanced%20Topics)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_regular-expressions-in-python-hand-written-activity-7089265527155568641-XsU_?utm_source=share&utm_medium=member_desktop)
+L
 
 ---
 
@@ -187,9 +171,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_regul
 - Setting Up MySQL Connection
 - Executing SQL Queries.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/8.%20Day%208%20-%20Python%20MySQL)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/8.%20Day%208%20-%20Python%20MySQL)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_python-mysql-database-notes-activity-7089627864056098816-lPHI?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -202,9 +185,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_pytho
 - Create Basic Classes
 - Customer Management.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/9.%20Day%209%20-%20Day%201%20of%20Project)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/9.%20Day%209%20-%20Day%201%20of%20Project)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_100daysofdatasciencecode-100daysofdatasciencecode-activity-7089991631885508610-sLI2?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -215,9 +197,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_100da
 - Basic Error Handling(Apply Validations on Input values)
 - Testing and Debugging(Checking Input value validations).
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/10.%20Day%2010%20-%20Day%202%20of%20Project)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/10.%20Day%2010%20-%20Day%202%20of%20Project)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_100daysofdatasciencecode-100daysofdatasciencecode-activity-7090353209545773057-QkTM?utm_source=share&utm_medium=member_desktop)
+
 
 ---
 
@@ -228,9 +210,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_100da
 - Final Testing and Documentation
 - Clean Up and Deployment.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/11.%20Day%2011%20-%20Project%20Completion)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/11.%20Day%2011%20-%20Project%20Completion)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_github-mankarsnehalbankmanagementsystempython-activity-7090715026596003840-tQZE?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -244,9 +225,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_githu
 - Array reshaping and resizing
 - Stacking and splitting arrays.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20NumPy%20Basics)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/12.%20Day%2012%20-%20NumPy%20Basics)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_numpy-notes-activity-7091077508925652992-4t9X?utm_source=share&utm_medium=member_desktop)
 
 ---
 
@@ -257,9 +237,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_numpy
 - Aggregation Functions
 - Linear Algebra with NumPy.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Numpy%20Math%20Operations)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_numpy-mathematical-operations-activity-7091440117076103168-wNZr?utm_source=share&utm_medium=member_desktop)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/13.%20Day%2013%20-%20Numpy%20Math%20Operations)
 
 ---
 
@@ -270,9 +248,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/posts/mankar-snehal_numpy
 - Random number generation
 - Sorting and searching arrays
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7091802600609644544/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/14.%20Day%2014%20-%20NumPy%20Statistic%20Functions)
 
 ---
 
@@ -286,9 +262,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 - DataFrame Functions
 - Accessing DataFrames : Indexing, Slicing, loc[], iloc[].
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/15.%20Day%2015%20-%20(1-8-23)%20Pandas%20Introduction)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7092042612802543616/)
 
 ---
 
@@ -301,9 +276,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
 - Advanced Data Manipulation - (reshaping data, pivoting, and melting)
 - Data Aggregation and Grouping - (groupby() and other aggregation Functions)
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/16.%20Day%2016%20-%20Pandas%20Data%20Manipulation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7092527029388005377/)
 
 ---
 
@@ -321,9 +295,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
 - Data Transformation - ( apply() and map() )
 - Working with Text Data - Functions of str attribute
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/17.%20Day%2017%20-%20Pandas%20Data%20Cleaning)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7092889359816757249/)
 
 ---
 
@@ -343,9 +316,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
     - Resampling time series data
     - Datetime index
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/18.%20Day%2018%20-%20Pandas%20Time%20Series%2C%20Feature%20Engg)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7093251844948267009/)
 
 ---
 
@@ -371,9 +343,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
     - Bar width
     - Bar height
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/19.%20Day%2019%20-%20Matplotlib%20Intro)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7093614613933568000/)
 
 ---
 
@@ -403,9 +374,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
     - Legend
     - Header
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/20.%20Day%2020%20-%20Matplotlib%20-%20Scatter%20and%20Histogram)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7093976557282598912/)
 
 ---
 
@@ -437,9 +407,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
     - Rugplot
     - KDE Plot
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/21.%20Day%2021%20-%20Seaborn%20Intro)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7094338904178196481/)
 
 ---
 
@@ -472,9 +441,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
     - HeatMap
     - Clustermap
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/22.%20Day%2022%20-%20Seaborn%20Visualization)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7094336234524745730/)
 
 ---
 
@@ -500,9 +468,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
   - looping statements
   - looping control statements
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/23.%20Day%2023%20-%20Python%20Basics%20Revision)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7095063679980773376/)
 
 ---
 
@@ -531,9 +498,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - randint()
   - randn()
   
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/24.%20Day%2024%20-%20NumPy%20Revision)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/24.%20Day%2024%20-%20NumPy%20Revision)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7095429866417700865/)
 
 ---
 
@@ -557,9 +523,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
   - apply()
   - map() - Using Dictionary, Series, Function for mapping
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/25%20-%20Day%2025%20-%20Pandas%20Revision)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/25%20-%20Day%2025%20-%20Pandas%20Revision)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7095788370768916481/)
 
 ---
 
@@ -578,9 +543,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
     - Reinforcement Learning
   - Comparisons between all types
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/26.%20Day%2026%20-%20AI%20and%20ML%20Fundamentals)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7096150733347069952/)
 
 ---
 
@@ -588,7 +552,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ## **DAY 27 (13 Aug 2023):** 
 ### Goal: Understanding Machine Learning Workflow
 
-<img src ="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/27.%20Day%2027%20-%20ML%20Workflow/Machine_Learning_Workflow_page-0001.jpg" height = "750">
+<img src ="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/27.%20Day%2027%20-%20ML%20Workflow/Machine_Learning_Workflow_page-0001.jpg" height = "750">
 
 - **1. Data Preprocessing:**
   - Data Cleaning
@@ -610,9 +574,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Overfitting and Underfitting
 
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/27.%20Day%2027%20-%20ML%20Workflow)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7096497900733526016/)
 
 ---
 
@@ -632,9 +595,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
   - Overfitting
   - Underfitting 
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7096875618801246208/)
 
 ---
 
@@ -653,9 +615,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Regularization techniques
   - Early stopping
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/29.%20Day%2029%20-%20Overfitting%20and%20Underfitting)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7097238007765696512/)
 
 ---
 
@@ -674,9 +635,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Implementation of Simple Linear Regression
   - Real-world Application: Salary Prediction
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7097600628465524736/)
 
 ---
 
@@ -691,9 +651,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Implementation of MLR using Python
   - Real-world Application: Student Performance Analysis
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7097962901692383232/)
 
 ---
 
@@ -733,9 +692,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - ROC Curve and AUC
   - Confusion Matrix
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/32.%20Day%2032%20-%20Classification%20in%20ML)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7098335810092974080/)
 
 ---
 
@@ -754,9 +712,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
   - Implementation of Logistic Regression
 - Difference between Linear Regression and Logistic Regression
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/33.%20Day%2033%20-%20Logistic%20Regression)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/33.%20Day%2033%20-%20Logistic%20Regression)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7098687558280183808/)
 
 ---
 
@@ -776,9 +733,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - How Decision Trees Work
   - Advantages of Decision Trees
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/34.%20Day%2034%20-%20Decision%20Tree%20Concept)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/34.%20Day%2034%20-%20Decision%20Tree%20Concept)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7099050015435702273/)
 
 ---
 
@@ -795,9 +751,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
   - IRIS Flower Classification
   - Red Wine Quality Prediction
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/35.%20Day%2035%20-%20Decision%20Tree%20Implementation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/35.%20Day%2035%20-%20Decision%20Tree%20Implementation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7099412341611466757/)
 
 ---
 
@@ -811,9 +766,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Stacking
   - Advantages of Ensemble Methods
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/36.%20Day%2036%20-%20Ensemble%20Methods)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/36.%20Day%2036%20-%20Ensemble%20Methods)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7099774736804564993/)
 
 ---
 
@@ -827,9 +781,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - How Gradient Boosting Works
   - Benefits of Gradient Boosting
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/37.%20Day%2037%20-%20Gradient%20Boosting)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/37.%20Day%2037%20-%20Gradient%20Boosting)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7100137176398467072/)
 
 ---
 
@@ -843,9 +796,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Advantages of AdaBoost and XGBoost
   - Applications
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/38.%20Day%2038%20-%20AdaBoost%20and%20XGBoost)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7100499497692127232/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/38.%20Day%2038%20-%20AdaBoost%20and%20XGBoost)
 
 ---
 
@@ -860,9 +811,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Benefits of Random Forests
   - Real-world Applications of Random Forests
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/39.%20Day%2039%20-%20Random%20Forests%20Introduction)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/39.%20Day%2039%20-%20Random%20Forests%20Introduction)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7100861900124528641/)
 
 ---
 
@@ -870,7 +820,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ## **DAY 40 (26 Aug 2023):** 
 ### Goal: Random Forest Implementation and Hyperparameter Tuning
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/40.%20Day%2040%20-%20Random%20Forests%20Implementation/Random%20Forest%20Implementation_page.jpg" height="750px">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/40.%20Day%2040%20-%20Random%20Forests%20Implementation/Random%20Forest%20Implementation_page.jpg" height="750px">
 
 - Random Forest Implementation:
   - Step-by-Step Approach
@@ -881,9 +831,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - GridSearchCV
   - RandomizedSearchCV
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/40.%20Day%2040%20-%20Random%20Forests%20Implementation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/40.%20Day%2040%20-%20Random%20Forests%20Implementation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7101224328079249408/)
 
 ---
 
@@ -895,9 +844,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 - Enchantment of Random Forests
 - Social Media Ads prediction
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/41.%20Day%2041%20-%20Decision%20Tree%20and%20Random%20Forest%20Example)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/41.%20Day%2041%20-%20Decision%20Tree%20and%20Random%20Forest%20Example)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7101586660823359488/)
 
 ---
 
@@ -910,9 +858,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 - Advantages of SVM
 - Limitations of SVM
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/42.%20Day%2042%20-%20SVM%20Intro)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/42.%20Day%2042%20-%20SVM%20Intro)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPost:7101949787133931520/)
 
 ---
 
@@ -921,12 +868,11 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:ugcPos
 ### Goal: SVM Implementation
 
 - SVM Implementation:
-  - Linear SVM (Social Media Ads) : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/linear-svm-social-network-ads)
-  - Non-Linear SVM (IRIS Flower Prediction) : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/non-linear-svm-iris-flower)
+  - Linear SVM (Social Media Ads) : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/linear-svm-social-network-ads)
+  - Non-Linear SVM (IRIS Flower Prediction) : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/non-linear-svm-iris)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/43.%20Day%2043%20-%20Linear%20and%20Non-Linear%20SVM%20Implementation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/43.%20Day%2043%20-%20Linear%20and%20Non-Linear%20SVM%20Implementation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7102311442397167616/)
 
 ---
 
@@ -935,12 +881,11 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ### Goal: SVM Regression Implementation
 
 - SVM Regression Implementation:
-  - Salary Prediction : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/svm-regression-salary-dataset)
-  - Boston Housing Price Prediction : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/svm-regression-boston-house-pricing)
+  - Salary Prediction : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/svm-regression-salary-dataset)
+  - Boston Housing Price Prediction : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/svm-regression-boston-house-pricing)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/44.%20Day%2044%20-%20SVM%20Regression%20Implementation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/44.%20Day%2044%20-%20SVM%20Regression%20Implementation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7102673932947750912/)
 
 ---
 
@@ -956,9 +901,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 - How KNN works
 - How to choose value of 'K'
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/45.%20Day%2045%20-%20KNN%20Introduction)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/45.%20Day%2045%20-%20KNN%20Introduction)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7103106780741677056/)
 
 ---
 
@@ -967,20 +911,19 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ### Goal: KNN Implementation
 
 - KNN Classification:
-  - IRIS Flower Prediction : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-classification-iris-flower)
-  - Mushroom Clasification : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-classification-mushroom-classification)
+  - IRIS Flower Prediction : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/knn-classification-iris-flower)
+  - Mushroom Clasification : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/knn-classification-mushroom-classification)
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/46.%20Day%2046%20-%20(1%20Sept%202023)%20KNN%20Implementation/KNN%20Classification%20Steps.jpg" height="700px">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/46.%20Day%2046%20-%20(1%20Sept%202023)%20KNN%20Implementation/KNN%20Classification%20Steps.jpg" height="700px">
 
 - KNN Regression:
-  - Employee Salary Prediciton : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-regression-salary-dataset)
-  - Student Performance Prediction : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-regression-student-performance-prediction)
+  - Employee Salary Prediciton : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/knn-regression-salary-dataset)
+  - Student Performance Prediction : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/knn-regression-student-performance-prediction)
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/46.%20Day%2046%20-%20(1%20Sept%202023)%20KNN%20Implementation/KNN%20Regression%20Steps.jpg" height="700px">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/46.%20Day%2046%20-%20(1%20Sept%202023)%20KNN%20Implementation/KNN%20Regression%20Steps.jpg" height="700px">
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/46.%20Day%2046%20-%20KNN%20Implementation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7103399019510407169/)
 
 ---
 
@@ -989,13 +932,12 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ### Goal: KNN Hyperparameter Tuning
 
 - KNN Regression:
-  - House Price Prediction : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-regr-house-price-prediction-hyperparameter/notebook)
+  - House Price Prediction : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/knn-regr-house-price-prediction-hyperparameter/notebook)
 - KNN Classification:
-  - BMI Classification : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/knn-clf-bmi-classification-hyperparameter/notebook)
+  - BMI Classification : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/knn-clf-bmi-classification-hyperparameter/notebook)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/47.%20Day%2047%20-%20KNN%20Hyperparameter%20Tuning)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7103761143017484288/)
 
 ---
 
@@ -1014,9 +956,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Removing Outliers
   - Transforming Values
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/48.%20Day%2048%20-%20ML%20Fundamentals%20Revision)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7104313327727648768/)
 
 ---
 
@@ -1034,14 +975,13 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
     1. Mean Absolute Errors
     2. Mean Square Errors
     3. Root Mean Square Errors
-  - Kaggle Notebook : [Link to Notebook](https://www.kaggle.com/code/snehalsanjaymankar/5g-quality-of-service-mlr-svr-and-knn-regr)
+  - Kaggle Notebook : [Link to Notebook](https://www.kaggle.com/code/obinnaonyekwere/5g-quality-of-service-all-regression-algorithms)
   - Comparison of Model Performances (Multiple Bar Charts)
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R/compare_MLR_SVR_KNN.png">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R/compare_MLR_SVR_KNN.png">
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/49.%20Day%2049%20-%20Capstone%20Project%20-%205G%20Resources%20-%20MLR%2C%20SVR%2C%20KNN_R)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7104489460968415232/)
 
 ---
 
@@ -1061,14 +1001,13 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
     1. Accuracy Score
     2. Confusion Matrix
     3. Classification Report
-  - Kaggle Notebook : [Link to Notebook](https://www.kaggle.com/code/snehalsanjaymankar/gender-classification-lr-dt-rf-svm-and-knn)
+  - Kaggle Notebook : [Link to Notebook](https://www.kaggle.com/code/obinnaonyekwere/gender-classification-lr-dt-rf-svm-and-knn)
   - Comparison of Model Performances (Bar Chart)
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN/Compare_LR_DT_RF_SVM_KNN.png">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN/Compare_LR_DT_RF_SVM_KNN.png">
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/50.%20Day%2050%20-%20Capstone%20Project%20-%20Gender%20Classification%20-%20LR%2C%20DT%2C%20RF%2C%20SVM%20and%20KNN)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7104821236236496896/)
 
 ---
 
@@ -1087,9 +1026,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - K-Fold Cross-Validation
   - Stratified K-Fold Cross-Validation
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/51.%20Day%2051%20-%20Intro%20to%20Cross%20Validation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7105295672366510080/)
 
 ---
 
@@ -1097,13 +1035,12 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ## **DAY 52 (7 Sept 2023):** 
 ### Goal: Cross-Validation Implementation
 
-- K-Fold Cross-Validation : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/k-fold-cross-validation)
+- K-Fold Cross-Validation : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/k-fold-cross-validation)
 
-- Stratified K-Fold Cross-Validation : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/stratified-k-fold-cross-validation)
+- Stratified K-Fold Cross-Validation : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/stratified-k-fold-cross-validation)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/52.%20Day%2052%20-%20Cross%20Validation%20Implementation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7105572155865600001/)
 
 ---
 
@@ -1111,15 +1048,14 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ## **DAY 53 (8 Sept 2023):** 
 ### Goal: Perform EDA Operation on Different Datasets
 
-- EDA on Walmart Dataset : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/eda-on-walmart-sales-dataset/notebook)
+- EDA on Walmart Dataset : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/eda-on-walmart-sales-dataset/notebook)
 
-- EDA on Fifa 19 Dataset : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/eda-on-fifa19-dataset/notebook)
+- EDA on Fifa 19 Dataset : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/eda-on-fifa19-dataset/notebook)
 
-- EDA on Restaurant Dataset : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/eda-on-restaurant-dataset/notebook)
+- EDA on Restaurant Dataset : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/eda-on-restaurant-dataset/notebook)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/53.%20Day%2053%20-%20Perform%20EDA%20Operation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7105942680144125953/)
 
 ---
 
@@ -1134,14 +1070,13 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Feature Extraction
   - Dimension Reduction
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro/Dimensionality%20Reduction%20Techniques_pages-to-jpg-0001.jpg">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro/Dimensionality%20Reduction%20Techniques_pages-to-jpg-0001.jpg">
 
 - Advantages of Dimensionality Reduction
 - Limitations of Dimensionality Reduction
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/54.%20Day%2054%20-%20Dimensionality%20Reduction%20Intro)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7106309456954580992/)
 
 ---
 
@@ -1154,9 +1089,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 - Advantages of Principal Component Analysis
 - Limitations of Principal Component Analysis
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/55.%20Day%2055%20-%20Intro%20to%20PCA)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7106652030781300736/)
 
 ---
 
@@ -1167,9 +1101,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 - Step 1 : Covariance Matrix Computation
 - Step 2 : Compute Eigenvalues and Eigenvectors of Covariance Matrix to Identify Principal Components
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/56.%20Day%2056%20-%20Step%20in%20PCA)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7107037307613949952/)
 
 ---
 
@@ -1183,9 +1116,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 - Sorted Eigenvalues
 - Select Principal Components
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/57.%20Day%2057%20-%20PCA%20Solved%20Example)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7107376433236238339/)
 
 ---
 
@@ -1200,11 +1132,10 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 - Explained Variance
 - Dimensionality Reduction
 - Visualization
-- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/principal-component-analysis)
+- [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/principal-component-analysis)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/58.%20Day%2058%20-%20PCA%20Implementation)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7107751713779953664/)
 
 ---
 
@@ -1212,7 +1143,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ## **DAY 59 (14 Sept 2023):** 
 ### Goal: Introduction to Feature Selection
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro/Feature%20selection.png">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro/Feature%20selection.png">
 
 - What is Feature Selection?
 - Why is Feature Selection Necessary?
@@ -1237,9 +1168,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - It can be challenging to decide which features to select.
   - Some methods might not work well for all types of data.
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/59.%20Day%2059%20-%20Feature%20Selection%20Intro)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7108098856667467776/)
 
 ---
 
@@ -1266,11 +1196,10 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   1. Independence
   2. Suboptimal Results
 
-- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/feature-selection-filter-methods/edit/run/143077129)
+- [Kaggle Notebook](https://www.kaggle.com/obinnaonyekwere/feature-selection-wrapper-methods/edit/run/143077129)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/60.%20Day%2060%20-%20Feature%20Selection%20-%20Filter%20Methods)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/60.%20Day%2060%20-%20Feature%20Selection%20-%20Filter%20Methods)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7108472658224123905/)
 
 ---
 
@@ -1297,9 +1226,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 
 - [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/feature-selection-wrapper-methods)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/61.%20Day%2061%20-%20Feature%20Selection%20-%20Wrapper%20Methods)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/61.%20Day%2061%20-%20Feature%20Selection%20-%20Wrapper%20Methods)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7108834424695238656/)
 
 ---
 
@@ -1326,9 +1254,8 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 
 - [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/feature-selection-embedded-methods)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/62.%20Day%2062%20-%20Feature%20Selection%20-%20Embedded%20Methods)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/62.%20Day%2062%20-%20Feature%20Selection%20-%20Embedded%20Methods)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7109196817849868288/)
 
 ---
 
@@ -1343,11 +1270,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   3. Data Visualization
   4. Statistical Insights
 
-- [Kaggle Notebook](https://www.kaggle.com/snehalsanjaymankar/eda-ipl-all-time-best-batsman/edit)
+- [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/eda-ipl-all-time-best-batsman/edit)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/63.%20Day%2063%20-%20EDA%20on%20IPL%20Dataset)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7109583646864359425/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/63.%20Day%2063%20-%20EDA%20on%20IPL%20Dataset)
 
 ---
 
@@ -1365,11 +1290,10 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   6. Model Training
   7. Model Evaluation
 
-- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/used-car-price-prediction-svr)
+- [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/used-car-price-prediction-svr)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/64.%20Day%2064%20-%20Used%20Car%20Price%20Prediction%20using%20SVR)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/64.%20Day%2064%20-%20Used%20Car%20Price%20Prediction%20using%20SVR)
 
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7109950878287097856/)
 
 ---
 
@@ -1384,11 +1308,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   3. Collaborative Filtering
   4. Movie Recommendations
 
-- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/movie-recommendation-with-gridsearch/notebook)
+- [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/movie-recommendation-with-gridsearch/notebook)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/65.%20Day%2065%20-%20Movies%20Recommendation)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7110294627114450944/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/65.%20Day%2065%20-%20Movies%20Recommendation)
 
 ---
 
@@ -1405,9 +1327,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 
 - [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/slr-notebook)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/66.%20Day%2066%20-%20SLR%20on%20Insurance%20Dataset)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7110679392904736770/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/66.%20Day%2066%20-%20SLR%20on%20Insurance%20Dataset)
 
 ---
 
@@ -1422,11 +1342,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   3. Linear Regression Implementation
   4. Model Evaluation
 
-- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/salary-dataset-of-busssiness)
+- [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/salary-dataset-of-busssiness)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/67.%20Day%2067%20-%20Linear%20Regression%20Salary%20Dataset)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7111404267843796992/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/67.%20Day%2067%20-%20Linear%20Regression%20Salary%20Dataset)
 
 ---
 
@@ -1441,11 +1359,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   3. Data Visualization
   4. Insights Extraction
 
-- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/gym-exercises-eda)
+- [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/gym-exercises-eda)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/68.%20Day%2068%20-%20EDA%20on%20Gym%20Exercise%20Dataset)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7111627301544456192/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/68.%20Day%2068%20-%20EDA%20on%20Gym%20Exercise%20Dataset)
 
 ---
 
@@ -1461,11 +1377,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   4. Insights Extraction
 
 
-- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/life-expectancy-eda)
+- [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/life-expectancy-eda)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/69.%20Day%2069%20-%20EDA%20on%20Life%20Expectations%20Dataset)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7111733521060130817/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/69.%20Day%2069%20-%20EDA%20on%20Life%20Expectations%20Dataset)
 
 ---
 
@@ -1481,11 +1395,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   4. Insights Extraction
 
 
-- [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/predict-student-s-drop)
+- [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/predict-student-s-drop)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/70.%20Day%2070%20-%20EDA%20on%20Student%20Dropout)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7112120956935925760/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/70.%20Day%2070%20-%20EDA%20on%20Student%20Dropout)
 
 ---
 
@@ -1503,9 +1415,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   5. Fuzzy Clustering
 
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/71.%20Day%2071%20-%20Intro%20to%20Clustering)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7112458309189709825/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/71.%20Day%2071%20-%20Intro%20to%20Clustering)
 
 ---
 
@@ -1530,9 +1440,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Scalability
   - Interpretability
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/72.%20Day%2072%20-%20Clustering%20Algorithms)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7112820687731367937/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/72.%20Day%2072%20-%20Clustering%20Algorithms)
 
 ---
 
@@ -1545,11 +1453,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Assignment
   - Update Centroids
   - Repeat
-- Customer Clustering : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/k-means-customer-clustering/notebook)
+- Customer Clustering : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/k-means-customer-clustering/notebook)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/73.%20Day%2073%20-%20K-means%20Implementation)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7113169315230609410/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/73.%20Day%2073%20-%20K-means%20Implementation)
 
 ---
 
@@ -1562,11 +1468,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Assignment
   - Update Centroids
   - Repeat
-- Credit Card Clustering : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/k-means-credit-card-clustering/notebook)
+- Credit Card Clustering : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/k-means-credit-card-clustering/notebook)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/74.%20Day%2074%20-%20K-Means%20Credit%20Card%20Clustering)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7113928501614776320/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/74.%20Day%2074%20-%20K-Means%20Credit%20Card%20Clustering)
 
 ---
 
@@ -1574,11 +1478,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ## **DAY 75 (30 Sept 2023):** 
 ### Goal: Visualizing Clusters Distribution for 30 Datasets
 
-- Visualize Clustering Exercises : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/visualize-clustering-exercises/notebook)
+- Visualize Clustering Exercises : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/visualize-clustering-exercises/notebook)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/75.%20Day%2075%20-%20Visualize%20Clusters%20Exercise)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7114165821760794624/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/75.%20Day%2075%20-%20Visualize%20Clusters%20Exercise)
 
 ---
 
@@ -1586,11 +1488,9 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
 ## **DAY 76 (1 Oct 2023):** 
 ### Goal: Hierarchical Clustering Implementation
 
-- Online Retail Clustering : [Kaggle Notebook](https://www.kaggle.com/code/snehalsanjaymankar/online-retail-k-means-hierarchical-clustering)
+- Online Retail Clustering : [Kaggle Notebook](https://www.kaggle.com/code/obinnaonyekwere/online-retail-k-means-hierarchical-clustering)
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/76.%20Day%2076%20-%20Hierarchical%20Clustering)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7114639803849035776/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/76.%20Day%2076%20-%20Hierarchical%20Clustering)
 
 ---
 
@@ -1603,9 +1503,7 @@ LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activi
   - Data Exploration
   - Decision Support
 
-GitHub Repository: [Source Code](https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/tree/main/77.%20Day%2077%20-%20Hierarchical%20Clustering)
-
-LinkedIn post: [Daily Update](https://www.linkedin.com/feed/update/urn:li:activity:7115016137569923073/)
+GitHub Repository: [Source Code](https://github.com/obylo98/100-Days-of-Code-Data-Science/tree/main/77.%20Day%2077%20-%20Hierarchical%20Clustering)
 
 ---
 

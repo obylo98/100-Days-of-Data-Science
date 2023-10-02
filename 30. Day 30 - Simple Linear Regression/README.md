@@ -1,6 +1,6 @@
 <h1 align="center">Simple Linear Regression</h1>
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression/SLR%20Implementation.jpg" height="750px">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression/SLR%20Implementation.jpg" height="750px">
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression/download.png" width="500px">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/30.%20Day%2030%20-%20Simple%20Linear%20Regression/download.png" width="500px">
 
 
 The above diagram is an example of Simple Linear Regression, where change in the value of feature 'Y' is proportional to value of 'X'.

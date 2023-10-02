@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique/evaluation.png">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/28.%20Day%2028%20-%20Model%20Evaluation%20Technique/evaluation.png">
 
 
 ## 1. Accuracy:

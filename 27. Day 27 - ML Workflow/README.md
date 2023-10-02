@@ -1,6 +1,6 @@
 <h1 align="center">Machine Learning Workflow</h1>
 
-<img src ="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/27.%20Day%2027%20-%20ML%20Workflow/Machine_Learning_Workflow_page-0001.jpg" height = "750">
+<img src ="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/27.%20Day%2027%20-%20ML%20Workflow/Machine_Learning_Workflow_page-0001.jpg" height = "750">
 
 ---
 

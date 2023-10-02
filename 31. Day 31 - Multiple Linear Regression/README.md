@@ -1,7 +1,7 @@
 <h1 align="center">Multiple Linear Regression</h1>
 
 
-<img src="https://github.com/mankarsnehal/100-Days-of-Code-Data-Science/blob/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression/MLR%20Implementation.jpg" height="750px">
+<img src="https://github.com/obylo98/100-Days-of-Code-Data-Science/blob/main/31.%20Day%2031%20-%20Multiple%20Linear%20Regression/MLR%20Implementation.jpg" height="750px">
 
 ---
 
